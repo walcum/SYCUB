@@ -1,0 +1,15 @@
+<resources>
+
+    <color name="ColorPrimary">#e62117</color>e62117
+    <color name="tabsScrollColor">#000000</color>
+    <color name="tabsSelectColor1">#ff8800</color>
+    <color name="tabsSelectColor">#8b8383</color>
+
+
+    <color name="ColorPrimary3">#877878</color>
+    <color name="ColorPrimary1">#605050</color>
+    <color name="ColorPrimary2">#472e2e</color>
+    <color name="ColorPrimaryDark">#c31c13</color>
+
+
+</resources>
